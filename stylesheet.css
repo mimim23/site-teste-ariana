@@ -1,0 +1,35 @@
+h1,h2{
+text-align: center;
+}
+p{
+text-align: justify;
+}
+h1,h2{
+color:#9B83D5;
+}
+body{
+color:#6E50A8;
+font-size:20px;
+font-family: 'Poppins', sans-serif;
+background-color:#FFFFFF;
+}
+ul{
+color:#6E50A8;
+list-style-type:none;
+text-align:center;
+}
+.titulo-inicial{
+font-size:48px
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+a:link {
+  color:#9B83D5;
+}
+a:visited {
+  color:#6E50A8;
+}
